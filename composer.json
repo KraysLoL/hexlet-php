@@ -6,5 +6,7 @@
             "email": "sasha.asxz@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.19"
+    }
 }
