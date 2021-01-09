@@ -1,5 +1,10 @@
 {
     "name": "alexandr/hexlet-php",
+    "autoload": {
+            "files": [
+                "src/Runner.php"
+            ]
+        },
     "authors": [
         {
             "name": "Alex.Shchadnev",
